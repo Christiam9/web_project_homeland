@@ -1,5 +1,7 @@
-# Triple Espresso
+# Tripleten art gallery
 
-Descripción del proyecto: En esta página podremos encontrar un encabezado de bienvenida con horarios de atención, videos de recetas para preparar snacks, un formulario para reservar mesa (hasta 8 comensales) y finalizando las redes sociales de la cafetería en Facebook e Instagram.
+Descripción del proyecto: conoceremos de donde son algunos de los colaboradores de tripeten.
 
-Planes de mejora: ubicación de la cafetería y comentarios de los comensales que visitaron anteriormente el lugar.
+En esta página podremos encontrar un diseño responsivo, practicamos con figma, tambien estructuramos con metodologia BEM.
+
+Enlace GitHub Pages:
