@@ -4,4 +4,4 @@ Descripción del proyecto: conoceremos de donde son algunos de los colaboradores
 
 En esta página podremos encontrar un diseño responsivo, practicamos con figma, tambien estructuramos con metodologia BEM.
 
-Enlace GitHub Pages:
+Enlace GitHub Pages: https://christiam9.github.io/web_project_homeland/
