@@ -1,0 +1,12 @@
+.gallery {
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(4, 1fr);
+  grid-gap: 16px;
+  max-width: 1184px;
+  max-height: 442px;
+  margin: 92px auto 92px;
+}
+
+.gallery__img {
+  width: 100%;
+}
