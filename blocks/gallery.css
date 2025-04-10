@@ -10,3 +10,13 @@
 .gallery__img {
   width: 100%;
 }
+
+@media screen and (min-width: 546px) and (max-width: 1024px) {
+  .gallery {
+    display: grid;
+    grid-template: repeat(4, 1fr) / repeat(2, 1fr);
+    grid-gap: 16px;
+    max-width: 720px;
+    margin: 64px 24px 90px 24px;
+  }
+}

@@ -104,3 +104,26 @@
   margin-top: 25px;
   margin-bottom: 0;
 }
+
+@media screen and (min-width: 546px) and (max-width: 1024px) {
+  .places {
+    max-width: 720px;
+    gap: 72px;
+  }
+
+  .places__content {
+    grid-template-rows: 90px 1fr repeat(2, 50px);
+  }
+
+  .places__title {
+    font-size: 42px;
+    line-height: 46px;
+    padding-top: 12%;
+  }
+
+  .places__img {
+    width: 340px;
+    height: 340px;
+    grid-row: 2 / 4;
+  }
+}
